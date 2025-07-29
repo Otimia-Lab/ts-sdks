@@ -1,10 +1,10 @@
-# Mysten Typescript SDKs
+# Onoal Typescript SDKs
 
 A collection of TypeScript SDKs for interacting with the Sui blockchain ecosystem.
 
 ## Documentation
 
-For SDK documentation visit https://sdk.mystenlabs.com/typescript
+For SDK documentation visit https://sdk.onoal.com/typescript
 
 ## Development
 
